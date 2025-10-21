@@ -58,7 +58,7 @@ It demonstrates:
 **Metrics Used:** Accuracy, F1 Score, Confusion Matrix  
 
 **Example Performance:**
-- [[93 12]
- [19 55]]
+- Confusion matrix: [[93 12]
+                    [19 55]]
 - Accuracy: 0.8268156424581006
 - F1 Score: 0.7801418439716312
